@@ -26,10 +26,6 @@ h1 img {
   margin: 20px 0;
 }
 
-span {
-  color: red;
-}
-
 @media screen and (min-width: 767px) {
   .main-text {
     background: url(img/judo.jpg) center left no-repeat;
